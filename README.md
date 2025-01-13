@@ -21,7 +21,7 @@
     <strong>Presented at:</strong> <br />
     <span style="font-size: 1.1rem;">The Korean Society of Mechanical Engineers (KSME)</span> <br />
     <strong>Event:</strong> Robotics Engineering Workshop 2025 <br />
-    <strong>Date:</strong> January 15, 2025 <br />
+    <strong>Date:</strong> February 20, 2025 <br />
   </p>
 </div>
 
