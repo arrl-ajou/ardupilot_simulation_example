@@ -7,11 +7,11 @@
   <h3 align="center">Ardupilot Simulation Example</h3>
 
   <p align="center">
-    <em>Depth Estimation and Navigation Using Stereo Cameras</em>
+    <em>Navigation Using Stereo Depth Cameras</em>
   </p>
   
   <p align="center">
-    This project provides a simulated environment for depth estimation and navigation using stereo cameras.  
+    This project provides a simulated environment for navigation using stereo depth cameras.  
     It utilizes <strong>ROS2</strong>, <strong>Ardupilot</strong>, and <strong>Gazebo</strong> for simulation.  
   </p>
   
